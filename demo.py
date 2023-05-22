@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 print("HELLO")
-print("i am monica")
+
+=======
+>>>>>>> parent of ee89a9a (add hello)
 print("DEMO")
